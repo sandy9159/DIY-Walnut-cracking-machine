@@ -85,8 +85,7 @@ visit [JLCPCB.com](https://jlcpcb.com/IAT) for High quality PCB and discount cou
 
 
 
-![image](https://user-images.githubusercontent.com/19898602/138899425-6b20d32c-36bf-429d-9ddc-b136d4b3f887.png)
-![image](https://user-images.githubusercontent.com/19898602/138899496-1f7dc461-d688-4ab0-b1ef-9c3c2c014d07.png)
+
 
 
 
@@ -117,6 +116,8 @@ I have used this 12V geared DC motor
 
 
 
+![image](https://user-images.githubusercontent.com/19898602/138900026-ce87fde6-e575-40bf-96bd-3bef08bcc4c9.png)
+![image](https://user-images.githubusercontent.com/19898602/138900079-f53c3ba4-8d47-476d-aef8-0275db7f4cb3.png)
 
 
 first of all I got 20mm thick wooden block. and cut it in desire shape using my mini table saw
@@ -126,9 +127,46 @@ wooden block
 
 
 
-![image](https://user-images.githubusercontent.com/19898602/138900026-ce87fde6-e575-40bf-96bd-3bef08bcc4c9.png)
-![image](https://user-images.githubusercontent.com/19898602/138900079-f53c3ba4-8d47-476d-aef8-0275db7f4cb3.png)
+![image](https://user-images.githubusercontent.com/19898602/138899425-6b20d32c-36bf-429d-9ddc-b136d4b3f887.png)
+![image](https://user-images.githubusercontent.com/19898602/138899496-1f7dc461-d688-4ab0-b1ef-9c3c2c014d07.png)
 
-I have used 
+
+
+
+
+I have used High torque DC motor in this project but I need some more torque to decide to cut some acrylic and create my own gear box
+
+I design 3D part in onshape 3d designing android app and export it in stl file.
+then I used fusion 360 software for CAM operation.
+
+I have generated G-code in fusion 360 and cut the acrylic part in my home made cnc router machine
+
+
+
+![image](https://user-images.githubusercontent.com/19898602/138903918-c9ae7f19-3b2e-4d9b-934b-189b36f0fe43.png)
+![image](https://user-images.githubusercontent.com/19898602/138903978-12ec8b25-fa7e-49b9-91f1-bc96469d0e03.png)
+
+This is the full assembly of gear box
+
+
+![Nested Sequence 01](https://user-images.githubusercontent.com/19898602/138904436-661012a9-efc6-44cb-8b64-eebd1f9f9bee.gif)
+
+This is how walnut pressing mechanism looks like.
+I trim down the 16mm nut to 12mm using my mini lathe machine, 
+Then I used 12mm linear bearing to slide this bolt one end of this smooth bolt is connected with the crank shaft 
+
+and further this crank shaft is connected with our gear box, and other end of bolt which is head portion is used 
+to press the walnut against one end
+
+![image](https://user-images.githubusercontent.com/19898602/138905762-bb390405-246c-4a4c-b294-e336faf1e78b.png)
+
+For the other end I cut M16 bolt in small length and 3D printed some part to hold this bolt
+
+This bolt is adjustable so the we can increase or decrease the default distance between rigid end and dynamic end of bolt
+
+In this way construction of machine is completed our machine is ready to crack walnut.
+
+
+![MVI_0003](https://user-images.githubusercontent.com/19898602/138906495-4efb2680-7d5f-4071-b822-f711e3d4ec2c.gif)
 
 
